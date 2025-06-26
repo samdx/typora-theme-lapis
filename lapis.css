@@ -237,6 +237,13 @@ mark {
     text-align: center;
 }
 
+#write h1 {
+    color: var(--bg-color);
+    padding: 1px;
+    border-radius: 4px;
+    background-color: var(--header-span-color);
+}
+
 #write h2 {
     padding: 1px 12.5px;
     border-radius: 4px;
@@ -286,6 +293,7 @@ mark {
 
 #write h1 {
     padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
     margin-bottom: 2.3rem;
 }
 
