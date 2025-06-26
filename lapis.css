@@ -247,7 +247,7 @@ mark {
 #write h2 {
     padding: 1px 12.5px;
     border-radius: 4px;
-    display: inline-block;
+    /*display: inline-block;*/
 }
 
 #write h2,
