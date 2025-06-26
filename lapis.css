@@ -8,7 +8,8 @@
     /* Text */
     --primary-color: #4870ac;
     /* Primary Color */
-    --bg-color: #ffffff;
+    --bg-color: #f3f2ee;
+    --color-code: #ededed;
     --side-bar-bg-color: var(--bg-color);
     /* Background */
 
