@@ -244,6 +244,14 @@ mark {
     background-color: var(--header-span-color);
 }
 
+#write h1,
+#write h1 a,
+#write h1 code,
+#write h1 strong,
+#write h1 script {
+    color: var(--bg-color);
+}
+
 #write h2 {
     padding: 1px 12.5px;
     border-radius: 4px;
