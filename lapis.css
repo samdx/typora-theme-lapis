@@ -267,6 +267,27 @@ mark {
     border-bottom-color: var(--bg-color) !important;
 }
 
+/*h3 style*/
+
+#write h3 {
+    padding: 1px 12.5px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#write h3,
+#write h3 code {
+    background-color: var(--header-span-color);
+}
+
+#write h3,
+#write h3 a,
+#write h3 code,
+#write h3 strong,
+#write h3 script {
+    color: var(--bg-color);
+}
+
 #write h1 {
     font-size: 2rem;
 }
