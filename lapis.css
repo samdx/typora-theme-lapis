@@ -494,7 +494,7 @@ li.md-list-item {
     padding: 2px 4px 2px;
     border-radius: 3px;
     margin: 2px;
-    background-color: var(--block-bg-color);
+    background-color: var(--color-code);
     font-family: var(--font-mono);
     word-break: break-all;
 }
@@ -796,7 +796,7 @@ pre.md-fences-advanced.md-focus .md-fences-adv-panel {
     width: 100%;
     background-size: 40px;
     background-repeat: no-repeat;
-    /* background-color: #282c34; */
+    background-color: var(--color-code);
     margin-bottom: -7px;
     border-radius: 5px;
     background-position: 10px 10px;
@@ -815,7 +815,7 @@ pre.md-fences-advanced.md-focus .md-fences-adv-panel {
     color: #4f5467;
     font-family: var(--font-mono);
     border-radius: 10px;
-    background-color: var(--block-bg-color);
+    background-color: var(--color-code);
     /* border: 1px solid #eef2f5;*/
     line-height: 1.6rem;
 }
