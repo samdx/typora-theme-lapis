@@ -31,6 +31,11 @@
     --rawblock-edit-panel-bd: var(--block-bg-color);
     --item-hover-bg-color: rgb(246 248 250);
     --active-file-bg-color: var(--block-bg-color);
+
+    /*Fonts*/
+    --font-heading: "Source Sans 3";
+    --font-body: "Lora";
+    --font-mono: "Iosevka";
 }
 
 @media print {
