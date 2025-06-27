@@ -371,7 +371,7 @@ blockquote h6.md-focus:before {
 }
 
 li.md-list-item {
-    margin: 0.4rem 0;
+    /*margin: 0.4rem 0;*/
 }
 
 #write ul,
