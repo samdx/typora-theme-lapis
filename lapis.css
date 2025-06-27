@@ -378,7 +378,7 @@ li.md-list-item {
 #write ol {
     margin-top: 8px;
     margin-bottom: 8px;
-    padding-left: 20px;
+    /*padding-left: 20px;*/
 }
 
 #write ul {
