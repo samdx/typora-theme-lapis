@@ -790,6 +790,10 @@ pre.md-fences-advanced.md-focus .md-fences-adv-panel {
  * Code Block - Style
  */
 
+.md-fences.md-fences-with-lineno {
+    margin-left: 20px;
+}
+
 .md-fences:before {
     content: ' ';
     display: block;
