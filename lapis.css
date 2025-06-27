@@ -406,6 +406,10 @@ li.md-list-item {
     font-weight: 500;
 }
 
+#write li p {
+    margin: 0;
+}
+
 /*
  * Quote
  */
